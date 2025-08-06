@@ -1,4 +1,4 @@
-import React from "react";
+
 import { Container, Typography, Card, CardContent, Grid, Box } from "@mui/material";
 import BusinessIcon from "@mui/icons-material/Business";
 import PeopleIcon from "@mui/icons-material/People";
